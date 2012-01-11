@@ -6,6 +6,8 @@
 # 3. Refactor for readability and efficiency
 #
 # NOTE: Do regular commits that show agile style iterations through the problem.
+# If you prefer a different language, you can provide your solution in PHP, 
+# Python or Javascript too.
 #
 package SillyFunction;
 
